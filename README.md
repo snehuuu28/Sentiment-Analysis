@@ -26,7 +26,7 @@ This web application predicts the sentiment of user-input text (Positive or Nega
 To run the app on your local machine:  
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/sentiment-analysis.git
+git clone https://github.com/snehuuu28/sentiment-analysis.git
 cd sentiment-analysis
 
 # Create and activate a virtual environment
@@ -63,5 +63,11 @@ scikit-learn
 pandas
 numpy
 ```
+
+---
+
+## 🌐 **GitHub**
+
+Check out the project repository on GitHub: [https://github.com/snehuuu28](https://github.com/snehuuu28)
 
 ---
